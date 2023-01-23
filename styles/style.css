@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Manrope&family=Poppins:wght@500;600&family=Work+Sans:wght@500&display=swap');
+
+body {
+    font-family: 'Manrope', sans-serif;
+}
+
+.ant-btnBg {
+    background-image: linear-gradient(to right, #FF8938 0%, #FF0000 100%);
+    font-weight: 500;
+    font-size: 20px;
+    border: none;
+    padding: 18px;
+}
+
+.b-title {
+    font-size: 80px;
+    font-weight: 800;
+}
+
+.feature-products {
+    font-weight: 800;
+    font-size: 45px;
+}
+
+.card-bg {
+    background-image: linear-gradient(to bottom, #F4F4F4 0%, #F4F4F400 100%);
+    width: 267px;
+}
+
+.card-item {
+    font-weight: 800;
+    font-size: 25px;
+}
+
+@media only screen and (max-width: 770px) {
+    .media {
+        display: flex;
+        justify-content: center;
+    }
+}

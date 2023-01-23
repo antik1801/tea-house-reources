@@ -64,6 +64,16 @@ body {
     font-weight: 800;
     font-size: 20px;
 }
+.super-client-sections{
+    background-image: linear-gradient(to right,#FF8938 0%,#FF0000 100%);
+    padding : 80px;
+}
+.chathead{
+    margin-left: 150px;
+}
+.cinnet{
+    
+}
 
 @media only screen and (max-width: 770px) {
     .media {

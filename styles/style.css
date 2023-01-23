@@ -75,6 +75,11 @@ body {
     
 }
 
+.profile__pic{
+    top: -30px;
+    left: -25px;
+}
+
 @media only screen and (max-width: 770px) {
     .media {
         display: flex;
